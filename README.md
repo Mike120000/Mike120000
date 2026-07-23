@@ -1,6 +1,6 @@
 - 👋 Hi! I’m Tiziri, you could also call me Jaden :>
-- 👀 I’m interested in Coding in maths, and programming in Rust, C, and C++ :P
+- 👀 I’m interested in Coding and maths. My favorite programming languages are Rust, C, and C++ :P
 - 🌱 I’m currently working on creating my custom programming language :3
-- 📫 How to reach me jadey6125@proton.me ^w^
-- 😄 Pronouns: they/them xe/xem moon/moonself
+- 📫 How to reach me: jadey6125@proton.me ^w^
+- 😄 Pronouns: they/them xe/xem
 - ⚡ Fun fact: I'm agender and have AuDHD :D
